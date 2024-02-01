@@ -30,5 +30,6 @@
 
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/65e3a9c1-d7d0-4789-877b-2113b3d301a"width="50px"> </a>
+<a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/6a52191d-95d2-4839-822f-9af5b6e94a9d"width="50px"> </a>
+
 
