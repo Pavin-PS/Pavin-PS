@@ -23,10 +23,12 @@
 
 <h2>Familiar Tools:</h2>
 <img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/67b52afb-dd32-4c35-9746-f98be3c14998" width="50px">
+
 <img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/d123181c-31fd-496a-b61b-dbf688d09472" width="50px">
+
 <img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/f1c93948-9f2e-47ac-951e-2f34ce83943f" width="50px">
 
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/65e3a9c1-d7d0-4789-877b-2113b3d301a" width="50px"> </a>
+<a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/65e3a9c1-d7d0-4789-877b-2113b3d301a"width="50px"> </a>
 
