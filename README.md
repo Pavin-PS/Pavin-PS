@@ -22,11 +22,11 @@
 </p>
 
 <h2>Familiar Tools:</h2>
-<img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/96e6a486-d596-48c9-a3c6-de65dd10d57a" width="25px">
-<img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/1059344b-d59e-4d3f-8ffd-2bbb8430d070" width="25px">
-<img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/dc7d6311-e636-42c6-ad60-c6d5c4f3ba4a" width="25px">
+<img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/67b52afb-dd32-4c35-9746-f98be3c14998" width="50px">
+<img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/d123181c-31fd-496a-b61b-dbf688d09472" width="50px">
+<img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/f1c93948-9f2e-47ac-951e-2f34ce83943f" width="50px">
 
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/7e72b9b2-5008-4d56-898b-23964a0612b3" width="25px"> </a>
+<a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/MyProfile_New/assets/84218190/65e3a9c1-d7d0-4789-877b-92113b3d301a" width="50px"> </a>
 
