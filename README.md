@@ -32,5 +32,5 @@
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/pavin-p-s-50559518a/"><img src="https://github.com/Pavin-PS/Pavin-PS/assets/84218190/6a52191d-95d2-4839-822f-9af5b6e94a9d"width="50px"> </a>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavin_PS)](https://github.com/Pavin-PS/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavin_PS)]([https://github.com/Pavin-PS])
 
