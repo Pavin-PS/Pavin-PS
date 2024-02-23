@@ -4,7 +4,7 @@
 <p>Highly Motivated Front End Developer.</p>
 <p>Passionate on Embedded Systems & IOT.</p>
 
-<h2> 🎯 Languages Known:</h2>
+<h2> 🎯 Skills:</h2>
 <p>
   <ul>
     <li>HTML5.</li>
